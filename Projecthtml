@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=.0">
+    <title>Matyro</title>
+    <link rel="stylesheet" href="portfolio.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+</head>
+
+
+<body class="bg-image">
+ 
+  
+   
+
+<div class="main">
+  <div class="links">
+    <div class="flex-container">
+
+    
+
+ <div class="link"> <h1>Intro</h1></div>
+
+  <div class="link">  <h2>About Me</h2> </div>
+
+    <div class="link"> <h3>The Journey</h3></div>
+
+      <div class="link"> <h2>Let's Talk!</h2></div>
+
+        <div class="link"> <h4>Let me show you what I can do for you</h4></div>
+</div>  
+  </div>
+
+  <div class="header">
+  
+        
+     
+        <p>Web development truly excites me; the process of 
+        crafting digital experiences and solving intricate 
+        challenges is immensely gratifying. The dynamic nature 
+        of this field captivates my interest, as it continuously 
+        evolves and presents fresh opportunities to innovate. 
+        Through web development, I find a platform where my 
+        creativity converges with technical skills, opening 
+        doors to a myriad of possibilities for creating 
+        impactful and user-centric solutions.
+        </p>  
+      
+</div>
+<div class="guts">
+
+
+
+
+<h3>"Raise the inner mind and self
+If we dare to know and teach" - Amanda Gorman
+</h3><br><br>
+
+<p>
+I created this website as a platform to showcase my skills and 
+capabilities to potential networking opportunities for several 
+compelling reasons. Firstly, in today's digital age, an online 
+presence serves as a powerful tool for self-promotion and
+professional branding. By curating a collection of my achievements,
+ projects, and expertise, I can provide a comprehensive overview 
+ of my abilities to prospective collaborators, employers, and 
+ partners. Secondly, a dedicated website allows me to express my 
+ creativity and uniqueness in a personalized manner, making a 
+ lasting impression on visitors. It also offers a centralized hub 
+ where interested parties can easily access information about my 
+ background, accomplishments, and contact details. Moreover, 
+ maintaining a website demonstrates my commitment to staying 
+ current with technological trends and utilizing them to my 
+ advantage. Ultimately, this platform not only underlines my 
+ proficiency in the digital landscape but also exemplifies my 
+ proactive approach to networking and seizing opportunities for 
+ meaningful professional connections.
+</p><br><br>
+
+
+<p>Hello! I'm Marlon Tyree Roberson, a multi-faceted Quality 
+    Assurance Technician and Support Engineer III with a passion 
+    for excellence in the aerospace industry. My journey has been 
+    marked by a dedication to surpassing standards, building and 
+    enhancing projects, and an unyielding commitment to learning. 
+    With a foundation in Aerospace, I have continuously expanded 
+    my skill set to become a proficient web developer. My diverse
+    background and insatiable curiosity drive me to create
+     solutions that blend precision with creativity.
+</p><br><br>
+
+
+<h4>Why I Created This Website:</h4><br>
+
+
+ <p>
+The journey that led me to become a web developer is a testament 
+to my pursuit of knowledge and passion for innovation. Starting 
+my career with a strong foundation in Aerospace as a Quality 
+Assurance Technician and Support Engineer III, I honed skills in 
+precision, problem-solving, and project management. My desire to 
+continually learn and adapt inspired me to embrace new challenges, leading me to explore the world of web development.
+</p><br><br>
+
+
+<p>
+ Creating this website serves as a testament to my commitment to
+ evolution. It's a platform where I can not only showcase my 
+ diverse skills but also demonstrate how my journey from 
+ aerospace to web development has equipped me with a unique 
+ perspective. I believe that the intersection of diverse
+ experiences enriches problem-solving and promotes innovation.
+</p><br><br>
+
+
+<h4>My Journey to Become a Web Developer:</h4><br>
+<p>My transition from the aerospace field to web development has 
+been an exhilarating journey. I embarked on this path with a 
+hunger for knowledge and a desire to bring creativity to digital 
+landscapes. Through rigorous self-guided learning, courses, and 
+hands-on projects, I've mastered HTML, CSS, and beyond. I've been 
+captivated by the fusion of art and technology that web 
+development offers, from designing aesthetically pleasing 
+interfaces to crafting seamless user experiences.
+</p><br><br>
+<p>What I've found most intriguing is the dynamic nature of web development. Just as in aerospace, the digital landscape evolves rapidly, demanding constant adaptation and innovation. This resonates with my drive to always exceed expectations, 
+  refine my skills, and approach challenges with fresh perspectives.</p><br><br>
+</div>
+</main>
+
+ <div class="footer"> 
+
+   <p>Are you seeking to elevate your online presence? Looking to bring your website to life with a blend of precision and creativity? I'm here to help. Let's collaborate on transforming your digital vision into a reality. Reach out to me to explore how I can contribute to your web development projects.
+
+Feel free to contact me at marlrb@amzon.com or call 510-206-8814 to discuss your ideas and requirements. Together, we can create digital experiences that leave a lasting impact.
+
+Thank you for visiting my website, and I look forward to the opportunity to work with you!</p>
+    <h2>Send me your info</h2>
+   
+    <form action="/example_action.html">
+        <label for="wday">First Name: </label>
+        <input type="text" id="wday" name="wday"><br><br>
+        <label for="wday">Last Name: </label>
+        <input type="text" id="wday" name="wday"><br><br>
+        <label for="wday">Company Name: </label>
+        <input type="text" id="wday" name="wday"><br><br>
+        <label for="appt">Pick a day to connect:</label>
+        <input type="date" id="appt" name="appt"><br><br>
+        <label for="project type">Project Type: </label>
+        <select name="project type " id="project type"> 
+ <option value="front end">Front End</option>
+  <option value="back end">Back end</option>
+  <option value="mechatronics">Mechatronics</option>
+  <option value="something else">Something Else</option>
+          <br><br>
+            <input type="submit" value="Save">
+</select>
+  </div>
+  </div>
+</body>
+
+</html>
