@@ -1,0 +1,183 @@
+portfolio
+*{
+  font-family: Papyrus,fantasy;
+}
+
+      p
+       {
+        text-indent: 10%;
+       font-size: large;
+
+      }
+
+      h1
+      { 
+        font-family: 'Times New Roman', Times, serif;
+        text-indent: 5%;
+        text-align: center;
+        font: bold;
+        color: whitesmoke;
+      }
+      h2{
+        font-family: 'Times New Roman', Times, serif;
+        text-indent: 5%;
+        text-align: center;
+        font: bold;
+        color: whitesmoke;
+      }
+
+      h3{
+        font-family: 'Times New Roman', Times, serif;
+        text-indent: 5%;
+        text-align: center;
+        font: bold;
+        color: whitesmoke;
+      }
+
+      h4{
+        font-family: 'Times New Roman', Times, serif;
+        text-indent: 5%;
+        text-align: center;
+        font: bold;
+        color: whitesmoke;
+      }
+
+      .bg-image  
+      { 
+        height: 100vh;
+        background-repeat: no-repeat;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-image: url("../photos/fiddleleaf1.jpg");
+      }
+
+    .main {
+        text-align: center;
+    }     
+
+    .link:hover {
+        color: gold;
+    }
+    
+    .links {
+      margin-bottom: 100px;  
+      font-family: 'Times New Roman', Times, serif;  
+      border-style: outset;
+      border: width 20px;
+      background: rgba(0, 10, 5, 0.974);
+      color: rgb(128, 8, 8);;
+      border-color: red;    
+      font-weight: bold;
+      
+    }
+    .flex-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+            
+      .header {
+        margin-top: 500px;
+        margin-bottom: 500px; 
+        font-family: 'Times New Roman', Times, serif;  
+        border-style: outset;
+        border: width 10px;
+        background: rgba(0, 10, 5, 0.974);
+        color: rgb(128, 8, 8);
+        border-color: red;   
+        font-weight: bold;
+      }
+
+      .guts {
+        font-size: 20px;
+        display: grid;
+        margin-top: 500px;
+        margin-bottom: 500px; 
+        font-family: 'Times New Roman', Times, serif;  
+        border-style: outset;
+        border: width 10px;
+        background: rgba(2, 39, 18, 0.812);
+        background-size: 100%;
+        color: rgb(135, 8, 8);
+        border-color: red; 
+        font-weight: bold;
+        animation: animate 200s ease-in-out infinite; 
+      }
+
+      @keyframes  animate{
+        5%{
+          background-image: url(../photos/car.jpg);
+        }
+        10%{
+        background-image: url(../photos/fieldbrown.jpg);
+      }
+      15%{
+        background-image: url(../photos/foggybeach1.jpg);
+      }
+        20%{
+        background-image: url(../photos/waterfallview.jpg);
+      }
+        25%{
+        background-image: url(../photos/windmill.jpg);
+      }
+      30%{
+        background-image: url(../photos/rockoutlook.jpg);
+      }
+      35%{
+        background-image: url(../photos/waterfallview.jpg);
+      }
+      40%{
+        background-image: url(../photos/ranier.jpg);
+      }
+      45%{
+        background-image: url(../photos/mountaineast.jpg);
+      }
+      50%{
+        background-image: url(../photos/dune1.jpg);
+      }
+        55%{
+        background-image: url(../photos/lavafield.jpg);
+      }
+        60%{
+        background-image: url(../photos/lake.jpg);
+      }
+        65%{
+        background-image: url(../photos/river2.jpg);
+      }
+        70%{
+        background-image: url(../photos/desertmountain.jpg);
+      }
+      75%{
+        background-image: url(../photos/protuding.jpg);
+      }
+        80%{
+        background-image: url(../photos/mountaineast2.jpg);
+      }
+        85%{
+        background-image: url(../photos/sunset.jpg);
+      }
+      90%{
+        background-image: url(../photos/oxidehills.jpg);
+      }
+      95%{
+        background-image: url(../photos/river3.jpg);
+      }
+        100%{
+        background-image: url(../photos/embers.jpg);
+      }
+      }
+
+      .footer {
+        margin-top: 500px;
+        margin-bottom: 500px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center; 
+        border-style: outset;
+        border: width 10px;
+        background: rgba(0, 10, 5, 0.974);
+        color: rgb(137, 11, 11);
+        border-color: red;
+        font-weight: bold;
+      }
